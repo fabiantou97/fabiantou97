@@ -1,6 +1,6 @@
 - ✨ Hi, I’m Fabian
 - 👀 I’m interested in Nature Conservation and Ornithology, particularly Passive Acoustic Monitoring and AI-based data analysis
-- 🌱 I’m currently learning data analysis using R for future projects as well as bird songs of german native bird species
+- 🌱 I’m currently learning data analysis using R and QGIS for future projects as well as bird songs of german native bird species
 - 📫 How to reach me: send me a pigeon
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Find me singing in the student choir or climbing in the climbing gym
